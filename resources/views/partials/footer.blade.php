@@ -14,5 +14,5 @@
 
     </div>
     <!-- Default to the left -->
-    <strong>Powered by <a href="https://github.com/wishbone-productions/open-admin" target="_blank">open-admin</a></strong>
+    <strong>Powered by <a href="https://github.com/b72/open-admin-panel" target="_blank">open-admin-panel</a></strong>
 </footer>
